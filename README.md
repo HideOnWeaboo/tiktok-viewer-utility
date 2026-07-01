@@ -174,4 +174,4 @@ This tool is intended for **educational and marketing purposes only**.
   <sub>Built with 💻 by solo devs who ship fast. Not affiliated with TikTok or ByteDance.</sub>
 </div>
 
-<!-- SEO KEYWORDS: TikTok viewer bot, TikTok views tool, TikTok traffic generator, free TikTok views 2026, TikTok automation, TikTok marketing tool, social media bot, TikTok profile viewer, TikTok video booster, Windows exe bot -->
+<!-- SEO KEYWORDS: TikTok viewer bot, TikTok views tool, TikTok traffic generator, free TikTok views 2026, TikTok automation, TikTok marketing tool, social media bot, TikTok profile viewer, TikTok video booster, Windows exe bot -->­
